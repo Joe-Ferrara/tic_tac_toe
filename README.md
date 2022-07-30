@@ -1,6 +1,6 @@
 # React Javascript Tic Tac Toe Tutorial
 
-Basic javascript react tic tac toe tutorial found [here](https://www.robotstxt.org/robotstxt.html).
+Basic javascript react tic tac toe tutorial found [here](https://reactjs.org/tutorial/tutorial.html).
 
 # Getting Started with Create React App
 
